@@ -1,0 +1,35 @@
+body{background-color: #5CA8F0}
+
+h1{color: #E0EAF3;
+ font-family: Ariel;
+ font-size: 40px;
+ background-color: #6C7E8F;
+ text-align: center;}
+
+  p{color#EC4F77; font-family: Ariel; font-size: 25px; text-align: center;}
+
+  a{text-decoration: none;
+  	color: #EC4F77;
+  	font-family: Ariel;
+  	font-size: 26px; 
+  }
+
+  img{
+  	display: block;
+  	margin: auto;
+  	border-style: triple;
+  	border-width: 6px;
+  	border-color: 1EO8OE;
+  }
+
+  a:hover{
+  	font-family: Ariel;
+  	font-size: 60px;
+  }
+
+  li{list-style:none;
+  	display: inline; 
+	padding: 10px;
+	background-color: #EC4F77;
+	border-style: double;
+	}
